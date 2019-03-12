@@ -17,7 +17,7 @@ You can install library through Composer:
 ```javascript
 {
     "require": {
-        "sokil/php-fraud-detect": "dev-master"
+        "spectrum8/php-fraud-detect": "dev-master"
     }
 }
 ```
