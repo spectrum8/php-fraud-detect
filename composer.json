@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "sokil/php-list": "0.*"
+        "sokil/php-list": "0.0.6"
     },
     "require-dev": {
     },
